@@ -1,0 +1,433 @@
+{
+  "version": 1,
+  "source": {
+    "repository": "AW1KSwinton/Cait-GPT-Match-History",
+    "commit": "24f0c0965661117a1147810263f2a3c722d8f0c9",
+    "gitBlobSha": "5eb04e5c714a9d9c85c4245de15ca028c76ff797",
+    "url": "https://github.com/AW1KSwinton/Cait-GPT-Match-History/blob/24f0c0965661117a1147810263f2a3c722d8f0c9/data.json",
+    "generatedAt": "2026-10-13T13:43Z"
+  },
+  "summary": {
+    "matches": 35,
+    "wins": 16,
+    "losses": 19,
+    "draws": 0
+  },
+  "entrants": [
+    {
+      "id": 1,
+      "driver": "ChatGPT",
+      "modelId": "gpt-6-luna",
+      "effort": "xhigh"
+    },
+    {
+      "id": 2,
+      "driver": "Claude",
+      "modelId": "claude-opus-5-5",
+      "effort": "high"
+    }
+  ],
+  "matches": [
+    {
+      "id": 2,
+      "at": "2026-10-09T16:24Z",
+      "opponent": "Nene",
+      "target": 2,
+      "entrant": 1,
+      "result": "loss",
+      "score": {
+        "player": 4,
+        "opponent": 13
+      },
+      "margin": -9,
+      "lanes": [
+        [
+          5,
+          6
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          3,
+          7
+        ]
+      ],
+      "durationSeconds": 1525,
+      "cardsPlayed": 6,
+      "opponentCardsPlayed": 7,
+      "board": {
+        "player": [
+          {
+            "name": "Elphadunk",
+            "row": 0,
+            "column": 0,
+            "power": 4
+          },
+          {
+            "name": "Queen Bee",
+            "row": 0,
+            "column": 1,
+            "power": 1
+          },
+          {
+            "name": "Grasslands Wolf",
+            "row": 1,
+            "column": 0,
+            "power": 2
+          },
+          {
+            "name": "Levrikon",
+            "row": 1,
+            "column": 1,
+            "power": 2
+          },
+          {
+            "name": "Levrikon",
+            "row": 2,
+            "column": 0,
+            "power": 2
+          },
+          {
+            "name": "Queen Bee",
+            "row": 2,
+            "column": 1,
+            "power": 1
+          }
+        ],
+        "opponent": [
+          {
+            "name": "Grasslands Wolf",
+            "row": 0,
+            "column": 2,
+            "power": 2
+          },
+          {
+            "name": "Quetzalcoatl",
+            "row": 0,
+            "column": 3,
+            "power": 3
+          },
+          {
+            "name": "Cactuar",
+            "row": 0,
+            "column": 4,
+            "power": 1
+          },
+          {
+            "name": "Security Officer",
+            "row": 1,
+            "column": 2,
+            "power": 1
+          },
+          {
+            "name": "Mu",
+            "row": 1,
+            "column": 4,
+            "power": 1
+          },
+          {
+            "name": "Queen Bee",
+            "row": 2,
+            "column": 3,
+            "power": 4
+          },
+          {
+            "name": "Grasslands Wolf",
+            "row": 2,
+            "column": 4,
+            "power": 3
+          }
+        ]
+      },
+      "deck": 1
+    },
+    {
+      "id": 21,
+      "at": "2026-10-12T21:08Z",
+      "opponent": "Biff",
+      "target": 12,
+      "entrant": 2,
+      "result": "loss",
+      "score": {
+        "player": 6,
+        "opponent": 10
+      },
+      "margin": -4,
+      "lanes": [
+        [
+          6,
+          0
+        ],
+        [
+          4,
+          10
+        ],
+        [
+          7,
+          7
+        ]
+      ],
+      "durationSeconds": 584,
+      "cardsPlayed": 6,
+      "opponentCardsPlayed": 5,
+      "board": {
+        "player": [
+          {
+            "name": "Gagighandi",
+            "row": 0,
+            "column": 0,
+            "power": 4
+          },
+          {
+            "name": "Levrikon",
+            "row": 0,
+            "column": 1,
+            "power": 2
+          },
+          {
+            "name": "Capparwire",
+            "row": 1,
+            "column": 0,
+            "power": 3
+          },
+          {
+            "name": "Security Officer",
+            "row": 1,
+            "column": 1,
+            "power": 1
+          },
+          {
+            "name": "Dragon",
+            "row": 2,
+            "column": 0,
+            "power": 5
+          },
+          {
+            "name": "Levrikon",
+            "row": 2,
+            "column": 1,
+            "power": 2
+          }
+        ],
+        "opponent": [
+          {
+            "name": "Capparwire",
+            "row": 1,
+            "column": 2,
+            "power": 3
+          },
+          {
+            "name": "Bloatfloat",
+            "row": 1,
+            "column": 3,
+            "power": 1
+          },
+          {
+            "name": "Capparwire",
+            "row": 1,
+            "column": 4,
+            "power": 6
+          },
+          {
+            "name": "Midgardsormr",
+            "row": 2,
+            "column": 3,
+            "power": 6
+          },
+          {
+            "name": "Tonberry King",
+            "row": 2,
+            "column": 4,
+            "power": 1
+          }
+        ]
+      },
+      "deck": 8
+    },
+    {
+      "id": 22,
+      "at": "2026-10-12T21:19Z",
+      "opponent": "Biff",
+      "target": 12,
+      "entrant": 2,
+      "result": "win",
+      "score": {
+        "player": 22,
+        "opponent": 0
+      },
+      "margin": 22,
+      "lanes": [
+        [
+          9,
+          4
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          8,
+          4
+        ]
+      ],
+      "durationSeconds": 469,
+      "cardsPlayed": 8,
+      "opponentCardsPlayed": 6,
+      "board": {
+        "player": [
+          {
+            "name": "Gagighandi",
+            "row": 0,
+            "column": 0,
+            "power": 4
+          },
+          {
+            "name": "Dragon",
+            "row": 0,
+            "column": 1,
+            "power": 5
+          },
+          {
+            "name": "Security Officer",
+            "row": 1,
+            "column": 0,
+            "power": 1
+          },
+          {
+            "name": "Security Officer",
+            "row": 1,
+            "column": 1,
+            "power": 1
+          },
+          {
+            "name": "Archdragon",
+            "row": 1,
+            "column": 2,
+            "power": 3
+          },
+          {
+            "name": "Riot Trooper",
+            "row": 2,
+            "column": 0,
+            "power": 3
+          },
+          {
+            "name": "Riot Trooper",
+            "row": 2,
+            "column": 1,
+            "power": 3
+          },
+          {
+            "name": "Levrikon",
+            "row": 2,
+            "column": 2,
+            "power": 2
+          }
+        ],
+        "opponent": [
+          {
+            "name": "Deathwheel",
+            "row": 0,
+            "column": 3,
+            "power": 1
+          },
+          {
+            "name": "Tonberry King",
+            "row": 0,
+            "column": 4,
+            "power": 3
+          },
+          {
+            "name": "Deathwheel",
+            "row": 1,
+            "column": 3,
+            "power": 1
+          },
+          {
+            "name": "Capparwire",
+            "row": 1,
+            "column": 4,
+            "power": 3
+          },
+          {
+            "name": "Sandhog Pie",
+            "row": 2,
+            "column": 3,
+            "power": 1
+          },
+          {
+            "name": "Tonberry King",
+            "row": 2,
+            "column": 4,
+            "power": 3
+          }
+        ]
+      },
+      "deck": 9
+    }
+  ],
+  "decks": [
+    {
+      "id": 1,
+      "cards": [
+        "Elphadunk",
+        "Elphadunk",
+        "Fleetwing",
+        "Grasslands Wolf",
+        "Grasslands Wolf",
+        "J-Unit Sweeper",
+        "Levrikon",
+        "Levrikon",
+        "Moogle Trio",
+        "Mu",
+        "Posh Chocobo",
+        "Queen Bee",
+        "Queen Bee",
+        "Security Officer",
+        "Security Officer"
+      ]
+    },
+    {
+      "id": 8,
+      "cards": [
+        "Archdragon",
+        "Archdragon",
+        "Capparwire",
+        "Capparwire",
+        "Dragon",
+        "Dragon",
+        "Elphadunk",
+        "Elphadunk",
+        "Gagighandi",
+        "Levrikon",
+        "Levrikon",
+        "Riot Trooper",
+        "Riot Trooper",
+        "Security Officer",
+        "Security Officer"
+      ]
+    },
+    {
+      "id": 9,
+      "cards": [
+        "Archdragon",
+        "Archdragon",
+        "Capparwire",
+        "Chimera",
+        "Chimera",
+        "Dragon",
+        "Dragon",
+        "Gagighandi",
+        "J-Unit Sweeper",
+        "Levrikon",
+        "Levrikon",
+        "Riot Trooper",
+        "Riot Trooper",
+        "Security Officer",
+        "Security Officer"
+      ]
+    }
+  ]
+}
