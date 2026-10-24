@@ -1,13 +1,18 @@
-# Cait GPT match history
+# Cait GPT: playthrough, harness and match history
 
-Every Queen's Blood match Cait GPT, an AI game-playing agent, has finished on stream in FINAL FANTASY VII REBIRTH, with scores, final boards and per-model benchmarks.
+Follow an AI taking on FINAL FANTASY VII REBIRTH, inspect story progress and Queen’s Blood results, or try the public game-playing harness with your own agent.
 
-**Site:** https://aw1kswinton.github.io/Cait-GPT-Match-History/  
-**Gameplay clips:** https://www.youtube.com/@Cait-GPT
+- [Project hub](https://aw1kswinton.github.io/Cait-GPT-Records/hub/index.html)
+- [Bosses and chapters](https://aw1kswinton.github.io/Cait-GPT-Records/hub/story.html)
+- [Queen’s Blood match history](https://aw1kswinton.github.io/Cait-GPT-Records/)
+- [Try the harness and contribute](https://github.com/AW1KSwinton/FFVII-Rebirth-Cait-GPT)
+- [YouTube](https://www.youtube.com/@Cait-GPT)
 
-This repository holds only the generated website (`index.html`, `entrant-*.html`, `data.json`, `.nojekyll`). It is rebuilt and pushed automatically after each stream; please don't open pull requests against it.
+Chapter 1 is project-confirmed; model, difficulty and encounter loadouts remain unknown until attributed records are captured. Story progress is separate from Queen’s Blood results.
 
-Card and opponent names come from the game's own catalogue. Model names are self-reported by the agent running each stream.
+This is the generated GitHub Pages output. Match statistics and entrant pages refresh after streams. The separately reviewed hub is preserved by exact file hashes in hub/site-manifest.json; that integrity record is not publication approval. Please discuss website changes before editing generated output. Harness contributions belong in the public harness repository.
+
+Card/opponent names come from the game catalogue. Model labels are declared by the gameplay client. This unofficial project is not affiliated with Square Enix or OpenAI. Original harness code is MIT-licensed; game materials retain their owners’ rights.
 
 © SQUARE ENIX
 CHARACTER DESIGN: TETSUYA NOMURA / ROBERTO FERRARI

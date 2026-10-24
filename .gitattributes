@@ -1,0 +1,2 @@
+# Preserve exact deployed-hub bytes on every checkout.
+hub/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

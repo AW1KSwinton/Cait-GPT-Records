@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "scope": "observed",
+  "bossCatalogueComplete": false,
+  "bosses": [
+    {
+      "id": "materia-guardian",
+      "name": "Materia Guardian",
+      "chapter": 1,
+      "category": "story"
+    }
+  ],
+  "models": [],
+  "runs": [],
+  "chapters": [
+    {
+      "id": "chapter-1-owner-confirmation",
+      "run": null,
+      "at": null,
+      "source": "owner-confirmed",
+      "evidenceSha256": null,
+      "credit": "unknown",
+      "settings": {
+        "difficulty": null,
+        "combatMode": null,
+        "coverage": "unknown",
+        "rules": "unknown",
+        "assists": null
+      },
+      "chapter": 1,
+      "result": "completed"
+    }
+  ],
+  "battles": []
+}

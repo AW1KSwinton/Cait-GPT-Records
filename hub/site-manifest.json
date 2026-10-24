@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "file": "index.html",
+      "bytes": 15092,
+      "sha256": "a483cac5c7d97ba538a585a2924719cc228b599f073e871c420e35e19e7def69"
+    },
+    {
+      "file": "story.html",
+      "bytes": 17481,
+      "sha256": "33f1ca96ed1b864938c2bcccee4a9b6878be68032b3c3e54ed44d3db558a5191"
+    },
+    {
+      "file": "cases.html",
+      "bytes": 14856,
+      "sha256": "2fb2f9540c148015a06ae2c7c9035e027d6f17692ba7e5898fd1cf09e9444647"
+    },
+    {
+      "file": "case-nene-lanes.html",
+      "bytes": 15637,
+      "sha256": "3d62a938be8251a72c6c0c007390e92900e507044017775d7a2aaa9e8c111d22"
+    },
+    {
+      "file": "case-biff-rematch.html",
+      "bytes": 15189,
+      "sha256": "d009b87ae5dd7d03ac2fbe9b125c0c74665148ce042bef972d83d5b67820dcae"
+    },
+    {
+      "file": "get-started.html",
+      "bytes": 14351,
+      "sha256": "8c6b26cf2e34e7d83bbca51e4407f1fee8920783a2d052583993b383e2d74f98"
+    },
+    {
+      "file": "methodology.html",
+      "bytes": 13907,
+      "sha256": "227e2bb6a56336025cb4a37b4d689139ec72c420f90c53bfd6695d9c423d4d0f"
+    },
+    {
+      "file": "updates.html",
+      "bytes": 12851,
+      "sha256": "9a798aad603971a1c359d3bff2fb2e915a5ec41a00bd518024b2f6a3b8be4f91"
+    },
+    {
+      "file": "story-history.json",
+      "bytes": 688,
+      "sha256": "4a814372e1b389906759de8cd0cef417cd6ede8319e81c67f896ccc4e356007b"
+    },
+    {
+      "file": "evidence.json",
+      "bytes": 8613,
+      "sha256": "9e7d2953726aaa74c31990415383a0e6aa25d7a614fb23050d9d841cff38c68a"
+    },
+    {
+      "file": "share.png",
+      "bytes": 44739,
+      "sha256": "672d394a0b2fa3d87094663b04b52073dc545bee4f3214da52e4addd8a3b2ee2"
+    }
+  ]
+}
